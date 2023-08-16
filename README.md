@@ -3,7 +3,7 @@ Compatibility
 
 Compatible with Version 1.7 and above only
 
-Cardstream module for PrestaShop
+Card Saver module for PrestaShop
 =================================
 
 
@@ -26,7 +26,7 @@ Clicking on `Configure` will automatically direct you to the module settings.
 
 From here, enter your `Merchant ID` and `Passphrase`. 
 In the `Frontend` box, enter a sentence asking your customer to pay with Cardstream,
-i.e. "Process payments with Cardstream", or "Cardstream".
+i.e. "Process payments with Card Saver", or "Card Saver".
 
 
 
